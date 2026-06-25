@@ -99,7 +99,6 @@ The primary objective of this project is to simplify the recruitment process by 
 </table>
 
 ---
-# 📸 Project Demo
 
 ## 🖥️ Dashboard Overview
 
@@ -215,28 +214,43 @@ K --> M
 
 ---
 
+```text
 # 📂 Project Structure
 
-AI-ATS-Resume-Screening-System
+AI-ATS-Resume-Screening-System/
 │
-├── app/
-│   └── app.py
+├── 📁 app/
+│   └── 🐍 app.py                     # Main Streamlit application
 │
-├── jupyter notebooks/
-│   ├── Model 1 - Text Extraction
-│   ├── Model 2 - NLP
-│   ├── Model 3 - Skill Extraction
-│   ├── Model 4 - Skill Matching
-│   ├── Model 5 - Skill Gap Analysis
-│   ├── Model 6 - Visualization
-│   └── Model 7 - Streamlit App
+├── 📁 jupyter_notebooks/
+│   ├── 📓 01_Text_Extraction.ipynb
+│   ├── 📓 02_NLP_Preprocessing.ipynb
+│   ├── 📓 03_Skill_Extraction.ipynb
+│   ├── 📓 04_Skill_Matching.ipynb
+│   ├── 📓 05_Skill_Gap_Analysis.ipynb
+│   ├── 📓 06_Data_Visualization.ipynb
+│   └── 📓 07_Streamlit_Integration.ipynb
 │
-├── screenshots/
+├── 📁 resume/
+│   ├── 📂 sample_resumes/
+│   ├── 📂 extracted_text/
+│   └── 📂 processed_data/
 │
-├── docs/
-│   └── Project_Report.pdf
+├── 📁 screenshots/
+│   ├── 🖼️ dashboard_overview.png
+│   ├── 🖼️ candidate_ranking.png
+│   ├── 🖼️ analytics_dashboard.png
+│   ├── 🖼️ skill_gap_analysis.png
+│   └── 🖼️ workflow_diagram.png
 │
-└── README.md
+├── 📁 docs/
+│   ├── 📄 AI_ATS_Project_Report.pdf
+│   └── 📄 AI_ATS_Project_Presentation.pdf
+│
+├── 📄 README.md
+├── 📄 requirements.txt
+└── 📄 LICENSE
+```
 
 ---
 
