@@ -99,4 +99,171 @@ The primary objective of this project is to simplify the recruitment process by 
 </table>
 
 ---
+# 📸 Project Demo
+
+## Dashboard Overview
+
+<p align="center">
+<img src="screenshots/dashboard-overview.png" width="95%">
+</p>
+
+---
+
+## Candidate Ranking Dashboard
+
+<p align="center">
+<img src="screenshots/candidate-ranking.png" width="95%">
+</p>
+
+---
+
+## Analytics Dashboard
+
+<p align="center">
+<img src="screenshots/analytics-dashboard.png" width="95%">
+</p>
+
+---
+
+## Skill Gap Analysis
+
+<p align="center">
+<img src="screenshots/skill-gap-analysis.png" width="95%">
+</p>
+
+---
+
+# ⚙️ System Workflow
+
+flowchart TD
+
+A[Resume PDFs] --> B[PDF Text Extraction]
+
+B --> C[Text Cleaning & Preprocessing]
+
+C --> D[Skill Extraction]
+
+D --> E[TF-IDF Vectorization]
+
+E --> F[Cosine Similarity Matching]
+
+F --> G[Candidate Ranking]
+
+G --> H[Skill Gap Analysis]
+
+H --> I[Interactive Streamlit Dashboard]
+
+---
+
+# 🛠️ Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Programming Language | Python |
+| Machine Learning | Scikit-Learn |
+| Natural Language Processing | NLTK, spaCy |
+| Data Processing | Pandas, NumPy |
+| Data Visualization | Matplotlib, Plotly |
+| Web Framework | Streamlit |
+| Development Environment | Jupyter Notebook, PyCharm |
+| Version Control | Git & GitHub |
+
+---
+
+# 📂 Project Structure
+
+AI-ATS-Resume-Screening-System
+│
+├── app/
+│   └── app.py
+│
+├── jupyter notebooks/
+│   ├── Model 1 - Text Extraction
+│   ├── Model 2 - NLP
+│   ├── Model 3 - Skill Extraction
+│   ├── Model 4 - Skill Matching
+│   ├── Model 5 - Skill Gap Analysis
+│   ├── Model 6 - Visualization
+│   └── Model 7 - Streamlit App
+│
+├── screenshots/
+│
+├── docs/
+│   └── Project_Report.pdf
+│
+└── README.md
+
+---
+
+# 🚀 Installation
+
+# Clone the repository
+
+git clone https://github.com/Dhavale01/AI-ATS-Resume-Screening-System.git
+
+# Open project folder
+
+cd AI-ATS-Resume-Screening-System
+
+# Install dependencies
+
+pip install -r requirements.txt
+
+# Run the application
+
+streamlit run app/app.py
+---
+
+# 📈 Project Highlights
+
+- Resume Parsing using Natural Language Processing
+- TF-IDF based Resume Matching
+- Cosine Similarity Candidate Scoring
+- Automatic ATS Ranking
+- Skill Gap Identification
+- Candidate Search & Filtering
+- Interactive Streamlit Dashboard
+- Download Results as CSV
+
+---
+
+# 📄 Documentation
+
+Project Report
+
+📘 **Blackbook / Project Report**
+
+`docs/Project_Report.pdf`
+---
+
+# 🔮 Future Scope
+
+- Multi-language Resume Support
+- OCR Support for Scanned Resumes
+- Deep Learning Based Resume Matching
+- Resume Recommendation System
+- Recruiter Authentication Portal
+- Cloud Deployment (AWS / Azure)
+- Large Language Model (LLM) Integration
+- AI Interview Recommendation Engine
+
+---
+
+# 👨‍💻 Author
+
+**Chaitanya Dhavale**
+
+B.Sc. Data Science & Business Analytics
+
+📍 Mumbai, India
+
+🔗 LinkedIn: https://www.linkedin.com/in/chaitanya-dhavale-7b8ba5284/
+
+💻 GitHub: https://github.com/Dhavale01
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
+
+
 
