@@ -281,15 +281,11 @@ AI-ATS-Resume-Screening-System/
 
 ---
 
-# 👨‍💻 Author
+## 📜 License
 
-**Chaitanya Dhavale**
+This project is developed for educational and academic purposes as part of the Bachelor's Degree in Data Science & Business Analytics.
 
-B.Sc. Data Science & Business Analytics
-
-📍 Mumbai, India
-
----
+© 2026 Chaitanya Dhavale. All Rights Reserved.
 
 ⭐ If you found this project useful, consider giving it a star!
 
