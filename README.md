@@ -101,57 +101,94 @@ The primary objective of this project is to simplify the recruitment process by 
 ---
 # 📸 Project Demo
 
-## Dashboard Overview
+## 🖥️ Dashboard Overview
 
 <p align="center">
 <img src="screenshots/9288709a-3652-4e4e-81f6-6cc343a8c675.png" width="95%">
 </p>
 
+<p align="center">
+<b>Main dashboard displaying candidate overview, ATS filtering, and search functionality.</b>
+</p>
+
 ---
 
-## Candidate Ranking Dashboard
+## 📊 Candidate Ranking Dashboard
 
 <p align="center">
 <img src="screenshots/d85bfee8-fb50-4ef9-945b-8cd558c9be51.png" width="95%">
 </p>
 
+<p align="center">
+<b>Automatically ranks candidates based on ATS score and displays key recruitment metrics.</b>
+</p>
 ---
 
-## Analytics Dashboard
+## 📈 Analytics Dashboard
 
 <p align="center">
 <img src="screenshots/e5d74e4c-2479-429d-82b5-a21a2783982a.png" width="95%">
 </p>
 
+<p align="center">
+<b>Visualizes top candidates, skill distribution, and recruitment insights.</b>
+</p>
 ---
 
-## Skill Gap Analysis
+## 🎯 Skill Gap Analysi
 
 <p align="center">
 <img src="screenshots/b1db2c7b-cfc8-48eb-b343-bf656098fab4.png" width="95%">
 </p>
 
+<p align="center">
+<b>Highlights matched skills and missing skills for each candidate.</b>
+</p>
 ---
 
-# ⚙️ System Workflow
+## ⚙️ System Workflow
 
-flowchart TD
+The following diagram illustrates the complete workflow of the AI-Powered ATS Resume Screening & Candidate Ranking System.
 
-A[Resume PDFs] --> B[PDF Text Extraction]
+flowchart LR
 
-B --> C[Text Cleaning & Preprocessing]
+subgraph INPUT
+A[📄 Resume PDFs]
+J[📋 Job Description]
+end
 
-C --> D[Skill Extraction]
+subgraph NLP_PIPELINE
+B[📑 PDF Text Extraction]
+C[🧹 Text Cleaning & Preprocessing]
+D[🧠 Skill Extraction]
+E[📊 TF-IDF Vectorization]
+F[🎯 Cosine Similarity Matching]
+end
 
-D --> E[TF-IDF Vectorization]
+subgraph ANALYSIS
+G[🏆 ATS Score Calculation]
+H[🥇 Candidate Ranking]
+I[📈 Skill Gap Analysis]
+end
 
-E --> F[Cosine Similarity Matching]
+subgraph OUTPUT
+K[💻 Interactive Streamlit Dashboard]
+L[📥 CSV Export]
+M[✅ Recruiter Decision Support]
+end
 
-F --> G[Candidate Ranking]
-
-G --> H[Skill Gap Analysis]
-
-H --> I[Interactive Streamlit Dashboard]
+A --> B
+B --> C
+C --> D
+D --> E
+J --> E
+E --> F
+F --> G
+G --> H
+H --> I
+I --> K
+K --> L
+K --> M
 
 ---
 
