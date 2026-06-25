@@ -150,6 +150,7 @@ The primary objective of this project is to simplify the recruitment process by 
 
 The following diagram illustrates the complete workflow of the AI-Powered ATS Resume Screening & Candidate Ranking System.
 
+```mermaid
 flowchart LR
 
 subgraph INPUT
@@ -189,6 +190,7 @@ H --> I
 I --> K
 K --> L
 K --> M
+``` 
 
 ---
 
