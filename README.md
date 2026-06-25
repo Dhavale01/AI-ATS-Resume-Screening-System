@@ -104,7 +104,7 @@ The primary objective of this project is to simplify the recruitment process by 
 ## Dashboard Overview
 
 <p align="center">
-<img src="screenshots/dashboard-overview.png" width="95%">
+<img src="screenshots/9288709a-3652-4e4e-81f6-6cc343a8c675.png" width="95%">
 </p>
 
 ---
@@ -112,7 +112,7 @@ The primary objective of this project is to simplify the recruitment process by 
 ## Candidate Ranking Dashboard
 
 <p align="center">
-<img src="screenshots/candidate-ranking.png" width="95%">
+<img src="screenshots/d85bfee8-fb50-4ef9-945b-8cd558c9be51.png" width="95%">
 </p>
 
 ---
@@ -120,7 +120,7 @@ The primary objective of this project is to simplify the recruitment process by 
 ## Analytics Dashboard
 
 <p align="center">
-<img src="screenshots/analytics-dashboard.png" width="95%">
+<img src="screenshots/e5d74e4c-2479-429d-82b5-a21a2783982a.png" width="95%">
 </p>
 
 ---
@@ -128,7 +128,7 @@ The primary objective of this project is to simplify the recruitment process by 
 ## Skill Gap Analysis
 
 <p align="center">
-<img src="screenshots/skill-gap-analysis.png" width="95%">
+<img src="screenshots/b1db2c7b-cfc8-48eb-b343-bf656098fab4.png" width="95%">
 </p>
 
 ---
