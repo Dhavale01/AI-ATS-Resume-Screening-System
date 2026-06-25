@@ -145,7 +145,8 @@ The primary objective of this project is to simplify the recruitment process by 
 <b>Highlights matched skills and missing skills for each candidate.</b>
 </p>
 ---
-# ⚙️ System Workflow
+
+## ⚙️ System Workflow
 
 The following workflow illustrates the complete pipeline of the AI-Powered ATS Resume Screening & Candidate Ranking System.
 
@@ -154,6 +155,7 @@ The following workflow illustrates the complete pipeline of the AI-Powered ATS R
 </p>
 
 ---
+
 ## ⚙️Technical Workflow
 
 The following diagram illustrates the complete workflow of the AI-Powered ATS Resume Screening & Candidate Ranking System.
