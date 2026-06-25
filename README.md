@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
 🤖 AI-Powered ATS Resume Screening & Candidate Ranking System
 </h1>
@@ -32,4 +31,3 @@ The application leverages **Natural Language Processing (NLP)** techniques such 
 The primary objective of this project is to simplify the recruitment process by reducing manual effort, improving screening consistency, and helping recruiters identify the most suitable candidates more efficiently.
 
 ---
-```
