@@ -214,9 +214,10 @@ K --> M
 
 ---
 
-```text
+
 # 📂 Project Structure
 
+```text
 AI-ATS-Resume-Screening-System/
 │
 ├── 📁 app/
