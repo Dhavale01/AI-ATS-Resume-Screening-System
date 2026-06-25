@@ -294,7 +294,23 @@ This project is developed for educational and academic purposes as part of the B
 
 © 2026 Chaitanya Dhavale. All Rights Reserved.
 
-⭐ If you found this project useful, consider giving it a star!
+---
+
+___
+
+## 👨‍💻 Author
+
+**Chaitanya Dhavale**
+
+Bachelor of Science in Data Science & Business Analytics
+
+HSNC University, Mumbai
+
+Academic Year: 2025–2026
+
+Final Year Project
+
+___
 
 
 
