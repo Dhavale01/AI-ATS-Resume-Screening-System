@@ -31,3 +31,72 @@ The application leverages **Natural Language Processing (NLP)** techniques such 
 The primary objective of this project is to simplify the recruitment process by reducing manual effort, improving screening consistency, and helping recruiters identify the most suitable candidates more efficiently.
 
 ---
+# ✨ Key Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 📄 Resume Parsing
+- Extracts text from PDF resumes
+- Cleans and preprocesses resume content
+- Supports multiple candidate resumes
+
+</td>
+
+<td width="50%">
+
+### 🤖 NLP Processing
+- Text preprocessing and tokenization
+- TF-IDF vectorization
+- Cosine Similarity matching
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Candidate Ranking
+- Calculates ATS match percentage
+- Ranks candidates automatically
+- Identifies High, Medium and Low matches
+
+</td>
+
+<td width="50%">
+
+### 🎯 Skill Gap Analysis
+- Detects missing skills
+- Compares resume with job description
+- Highlights improvement areas
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📈 Interactive Dashboard
+- Built using Streamlit
+- Candidate search
+- ATS score filtering
+- CSV download support
+
+</td>
+
+<td width="50%">
+
+### ⚡ Machine Learning Pipeline
+- Resume Parsing
+- Feature Extraction
+- TF-IDF Matching
+- Candidate Ranking
+- Skill Gap Analysis
+
+</td>
+</tr>
+</table>
+
+---
+
