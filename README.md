@@ -6,6 +6,8 @@
 An intelligent Applicant Tracking System (ATS) built with <b>Natural Language Processing (NLP)</b>, <b>Machine Learning</b>, and <b>Streamlit</b> to automate resume screening, candidate ranking, and skill gap analysis.
 </p>
 
+---
+
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,6 +24,11 @@ An intelligent Applicant Tracking System (ATS) built with <b>Natural Language Pr
 
 ---
 
+<p align="center">
+  <img src="assets/ChatGPT Image Jun 25, 2026, 08_43_36 PM.png" alt="AI-Powered ATS Resume Screening System Banner" width="100%">
+</p>
+
+---
 # 📌 Project Overview
 
 Recruiters often spend only a few seconds reviewing each resume, making manual screening both time-consuming and inconsistent. This project addresses that challenge by providing an AI-powered Applicant Tracking System (ATS) capable of automatically analyzing resumes, comparing them against job descriptions, and ranking candidates based on their relevance.
