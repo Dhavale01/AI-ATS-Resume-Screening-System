@@ -255,25 +255,6 @@ AI-ATS-Resume-Screening-System/
 
 ---
 
-# 🚀 Installation
-
-# Clone the repository
-
-git clone https://github.com/Dhavale01/AI-ATS-Resume-Screening-System.git
-
-# Open project folder
-
-cd AI-ATS-Resume-Screening-System
-
-# Install dependencies
-
-pip install -r requirements.txt
-
-# Run the application
-
-streamlit run app/app.py
----
-
 # 📈 Project Highlights
 
 - Resume Parsing using Natural Language Processing
@@ -285,15 +266,6 @@ streamlit run app/app.py
 - Interactive Streamlit Dashboard
 - Download Results as CSV
 
----
-
-# 📄 Documentation
-
-Project Report
-
-📘 **Blackbook / Project Report**
-
-`docs/Project_Report.pdf`
 ---
 
 # 🔮 Future Scope
@@ -316,10 +288,6 @@ Project Report
 B.Sc. Data Science & Business Analytics
 
 📍 Mumbai, India
-
-🔗 LinkedIn: https://www.linkedin.com/in/chaitanya-dhavale-7b8ba5284/
-
-💻 GitHub: https://github.com/Dhavale01
 
 ---
 
